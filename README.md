@@ -12,6 +12,13 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
   <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+## 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komalkhatod1105&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## 👩‍💻 About Me
@@ -235,8 +242,9 @@ MERN Based Property Booking Platform
 
 ## 🔥 GitHub Streak
 
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=komalkhatod1105&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
