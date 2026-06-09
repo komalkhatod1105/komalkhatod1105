@@ -225,12 +225,10 @@ MERN Based Property Booking Platform
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -258,8 +256,9 @@ MERN Based Property Booking Platform
 
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
