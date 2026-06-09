@@ -223,30 +223,37 @@ MERN Based Property Booking Platform
 🔹 Contributing to Open Source
 
 ---
-
-## 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight" />
 </p>
 
-
 ---
-
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night" />
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 📅 GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/komalkhatod1105" />
+</p>
+
+---
 
 
 ## 💻 Competitive Programming
