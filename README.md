@@ -14,14 +14,15 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 
 ---
 
-## 💫 Soft Coding Vibes
+
+## 💫 Glow Coding Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-🌷 “Quiet mind, loud code.” 💻✨
+✨ “She codes, she glows, she grows.” ✨
 </p>
 
 
