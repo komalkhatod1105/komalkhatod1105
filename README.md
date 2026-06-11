@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Khatod</h1>
+<h1 align="center">Hi, I'm Komal Khatod ✨</h1>
 
 <h3 align="center">
 Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Solver
@@ -7,13 +7,18 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/QX7nMrB3yH7x9YQ6mR/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
+<p align="center">
+✨ Building ideas into reality with code ✨
+</p>
 ---
 
 
