@@ -4,12 +4,14 @@
 Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Solver
 </h3>
 
+---
+
 <p align="center">
-  <img src="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -18,7 +20,7 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 ## 💫 Glow Coding Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ViZ2g3NmZqOXM5b2Y0ZmxiZWQzYTJjYWV5aHB2ZzkydWtwajk1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.webp" width="250"/>
 </p>
 
 <p align="center">
