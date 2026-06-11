@@ -1,24 +1,35 @@
-<h1 align="center">Hi, I'm Komal Khatod ✨</h1>
+<h1 align="center">
+✨ Hi, I'm Komal Khatod ✨
+</h1>
 
 <h3 align="center">
-Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Solver
+🧠 AI/ML Developer | 💻 MERN Stack Engineer | 🚀 Problem Solver
 </h3>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QX7nMrB3yH7x9YQ6mR/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
 </p>
 
 ---
 
 <p align="center">
-✨ Building ideas into reality with code ✨
+  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" />
 </p>
+
+---
+
+<p align="center">
+  🟢 <b>AI MODE: ACTIVE</b> &nbsp;|&nbsp; 💡 <b>BUILDING INTELLIGENT SYSTEMS</b> &nbsp;|&nbsp; ⚡ <b>CODE • LEARN • GROW</b>
+</p>
+
+---
+
+<p align="center">
+✨ Turning logic into intelligence ✨
+</p>
+
 ---
 
 
