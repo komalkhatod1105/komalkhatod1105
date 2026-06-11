@@ -12,6 +12,18 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
   <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
+## 💫 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+✨ "She codes her dreams into reality" ✨
+</p>
+
 
 
 ---
