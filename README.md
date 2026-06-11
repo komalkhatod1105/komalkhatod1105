@@ -95,36 +95,27 @@
 
 ## 🐧 Linux & Terminal
 
-```bash
 $ whoami
 Komal Khatod
 
 $ cat skills.txt
-C++ | MERN Stack | AI/ML | SQL | Django | Linux
+
+C++
+MERN Stack
+AI/ML
+SQL
+Django
+Linux
 
 $ pwd
+
 /home/komal/developer
 
 $ sudo apt install success
+
 Reading package lists... Done
 Building dependency tree... Done
-Success Installed ✔
-
----
-
-
-
-## ⚒️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,django,git,github,linux,vscode,bootstrap,tailwind,figma,postman,npm" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
+Success Installed ✔ peh readme linux per dikha esa kuch
 ---
 
 ## 🌱 Currently Learning
