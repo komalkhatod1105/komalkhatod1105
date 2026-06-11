@@ -100,26 +100,19 @@ $ whoami
 Komal Khatod
 
 $ cat skills.txt
-
-C++
-MERN Stack
-AI/ML
-SQL
-Django
-Linux
+C++ | MERN Stack | AI/ML | SQL | Django | Linux
 
 $ pwd
-
 /home/komal/developer
 
 $ sudo apt install success
-
 Reading package lists... Done
 Building dependency tree... Done
 Success Installed ✔
-```
 
 ---
+
+
 
 ## ⚒️ Tech Stack
 
