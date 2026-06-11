@@ -1,36 +1,18 @@
-<h1 align="center">
-✨ Hi, I'm Komal Khatod ✨
-</h1>
-
-<h3 align="center">
-🧠 AI/ML Developer | 💻 MERN Stack Engineer | 🚀 Problem Solver
-</h3>
-
----
+<h1 align="center">✨ Hi, I'm Komal Khatod ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;MERN+Stack+Engineer;Problem+Solver;Building+Smart+Systems" />
+</p>
+
+<p align="center">
+🧠 Computer Science Student | 💻 Full Stack Developer | 🚀 AI/ML Enthusiast
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" />
+✨ Code • Learn • Build • Grow ✨
 </p>
-
----
-
-<p align="center">
-  🟢 <b>AI MODE: ACTIVE</b> &nbsp;|&nbsp; 💡 <b>BUILDING INTELLIGENT SYSTEMS</b> &nbsp;|&nbsp; ⚡ <b>CODE • LEARN • GROW</b>
-</p>
-
----
-
-<p align="center">
-✨ Turning logic into intelligence ✨
-</p>
-
----
 
 
 ## 💫 Glow Coding Vibes
