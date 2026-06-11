@@ -14,14 +14,14 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 
 ---
 
-## 💫 Coding Vibes
+## 💫 Coding Mood
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-✨ "She codes her dreams into reality" ✨
+💻 "She believed she could, so she coded it." 
 </p>
 
 
