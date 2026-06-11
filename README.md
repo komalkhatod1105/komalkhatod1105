@@ -5,7 +5,7 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Learner;Competitive+Programmer;Linux+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter" />
+  <img src="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw" />
 </p>
 
 <p align="center">
