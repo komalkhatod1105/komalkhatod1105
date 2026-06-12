@@ -110,12 +110,12 @@ Linux
 $ pwd
 
 /home/komal/developer
-
 $ sudo apt install success
-
 Reading package lists... Done
 Building dependency tree... Done
 Success Installed ✔ peh readme linux per dikha esa kuch
+
+
 ---
 
 ## 🌱 Currently Learning
