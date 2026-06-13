@@ -110,8 +110,8 @@ Linux
 $ pwd
 
 $ sudo apt install success
-Reading package lists... Done
-Building dependency tree... Done
+Reading package lists..... Done
+Building dependency tree..... Done
 Success Installed ✔ peh readme linux per dikha esa kuch
 
 
