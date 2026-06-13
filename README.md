@@ -109,7 +109,6 @@ Linux
 
 $ pwd
 
-/home/komal/developer
 $ sudo apt install success
 Reading package lists... Done
 Building dependency tree... Done
