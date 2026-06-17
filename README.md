@@ -219,6 +219,25 @@ MERN Based Property Booking Platform
 🔹 Contributing to Open Source
 
 ---
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=komalkhatod1105&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 ## 🔥 GitHub Streak
 
 <p align="center">
