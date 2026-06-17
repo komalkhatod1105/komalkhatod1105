@@ -121,7 +121,6 @@ Success Installed ✔ peh readme linux per dikha esa kuch
 
 - Advanced MERN Stack
 - Machine Learning
-- System Design
 - Linux Administration
 - Open Source Development
 
