@@ -102,10 +102,11 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
+  <img src="
+    https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&row=2&column=4&no-frame=true" />
 </p>
+
+
 ---
 <h3 align="center">
 ✨ Code • Learn • Build • Repeat ✨
