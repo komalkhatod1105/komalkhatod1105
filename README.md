@@ -1,25 +1,29 @@
-<!-- ========================= HERO SECTION ========================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Komal+Khatod;Software+Developer;MERN+Stack+Engineer;AI%2FML+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
-</h1>
+<!-- ===================== HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=KOMAL%20KHATOD&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Komal%20Khatod&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+<h1 align="center">👋 Hello, I'm Komal Khatod</h1>
+
 <h3 align="center">
-Software Developer • MERN Stack Engineer • AI/ML Enthusiast
+🚀 Full Stack Developer • 🤖 AI/ML Enthusiast • 💻 Problem Solver
 </h3>
 
 <p align="center">
-Building innovative solutions through clean code, scalable systems, and continuous learning.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Artificial+Intelligence+Explorer;Open+Source+Contributor;Data+Structures+%26+Algorithms;Building+Real+World+Applications;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/komalkhatod1105?affiliations=OWNER&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/komalkhatod1105?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
