@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;DSA+Problem+Solver;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%92%AB" />
 </p>
 
----
-
-## 🌈 Profile Stats (Colorful Badges)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=ff4d6d&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&color=blueviolet&style=for-the-badge"/>
@@ -23,7 +19,6 @@
 </p>
 
 
-
 <p align="center">
   <img width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE4Z2V6YTBjcGljMTFldGdjazlhbm1kNDdrZ3YwYTluNm4yOHNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1h3FZiWzL100IncGQ/giphy.gif" />
 </p>
@@ -31,7 +26,6 @@
 <p align="center">
 🌸 “She writes code with dreams in her heart & logic in her mind.” 🌸
 </p>
---
 
 ## 💻 Project Overview
 
