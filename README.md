@@ -1,32 +1,79 @@
+<!-- ========================= HERO HEADER ========================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Komal+Khatod;Computer+Science+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Komal+Khatod;Software+Developer;MERN+Stack+Engineer;AI%2FML+Enthusiast;Problem+Solver;Building+Smart+Systems;Open+Source+Learner;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=KOMAL%20KHATOD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=KOMAL%20KHATOD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI/ML Explorer • Problem Solver • Open Source Enthusiast
+🚀 Software Developer • 🤖 AI/ML Explorer • 🌐 MERN Stack Engineer • 💡 Tech Innovator
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/komalkhatod1105?label=FOLLOWERS&style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/github/stars/komalkhatod1105?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 <p align="center">
-✨ Turning Ideas Into Scalable Applications ✨
+✨ <b>Code • Learn • Build • Innovate • Repeat</b> ✨
 </p>
+
+---
+
+<div align="center">
+
+### 💫 About Me
+
+🎓 B.Tech Computer Science Engineering Student @ Mody University
+
+💻 Passionate Full Stack Developer & Problem Solver
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🧠 Strong Foundation in DSA, OOPs, DBMS & System Design
+
+🚀 Building Real World Applications & Open Source Projects
+
+🐧 Linux Enthusiast | ⚙️ Tech Explorer | 📈 Lifelong Learner
+
+📍 Rajasthan, India 🇮🇳
+
+</div>
+
+---
 
 <p align="center">
-🎓 B.Tech CSE @ Mody University &nbsp; • &nbsp;
-💻 MERN Stack Developer &nbsp; • &nbsp;
-🤖 AI/ML Enthusiast &nbsp; • &nbsp;
-🏆 Hackathon Participant
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ViZ2g3NmZqOXM5b2Y0ZmxiZWQzYTJjYWV5aHB2ZzkydWtwajk1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.webp" width="220"/>
 </p>
 
+<h3 align="center">
+⚡ Building Smart Systems Through Code ⚡
+</h3>
+
+<p align="center">
+💻 MERN Stack • 🤖 AI/ML • 🧠 DSA • 🐧 Linux • 🌐 Web Development
+</p>
+
+---
+
+<div align="center">
+
+```bash
+┌──────────────────────────────────────────────┐
+│               SYSTEM STATUS                  │
+├──────────────────────────────────────────────┤
+│ 👩‍💻 Developer     : Komal Khatod            │
+│ 🎓 Education     : B.Tech CSE               │
+│ 🏫 University    : Mody University          │
+│ 💻 Focus         : MERN + AI/ML             │
+│ 🌱 Learning      : System Design            │
+│ 🚀 Goal          : Software Engineer        │
+│ ⚡ Status        : Building Cool Stuff      │
+└──────────────────────────────────────────────┘
 ---
 
 <p align="center">
