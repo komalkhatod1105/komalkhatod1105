@@ -99,7 +99,14 @@
 </p>
 
 ---
+## 🏆 GitHub Achievements
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</p>
+---
 <h3 align="center">
 ✨ Code • Learn • Build • Repeat ✨
 </h3>
