@@ -153,27 +153,11 @@ Responsive city exploration platform.
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/komalkhatod1105">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://linkedin.com/in/Komal-Khatod">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:komalkhatod1234@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://leetcode.com">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/komalk8">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50"/>
-</a>
-
+<a href="https://github.com/komalkhatod1105"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/veshnavi-singh-430670322"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:komalkhatod1234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" /></a>
+<a href="https://www.geeksforgeeks.org/user/komalk8"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" /></a>
 </p>
 
 ---
