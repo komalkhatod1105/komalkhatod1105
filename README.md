@@ -22,12 +22,10 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-00c896?style=for-the-badge"/>
 </p>
 
----
 
-## 💻 Coder Vibes ✨
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE4Z2V6YTBjcGljMTFldGdjazlhbm1kNDdrZ3YwYTluNm4yOHNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1h3FZiWzL100IncGQ/giphy.gif" />
 </p>
 
 <p align="center">
