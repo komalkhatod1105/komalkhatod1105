@@ -218,9 +218,6 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
   <img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=react-dark" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&margin-w=10&no-frame=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkhatod1105&theme=radical"/>
 
 ---
