@@ -145,8 +145,6 @@ Success Installed ✔ peh readme linux per dikha esa kuch
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=komalkhatod1105&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
