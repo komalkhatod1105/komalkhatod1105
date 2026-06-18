@@ -143,41 +143,9 @@ Responsive city exploration platform.
 
 ## 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-## 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-## 📚 Libraries & Frameworks
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge)
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
-
-## ⚙️ Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
+</p>
 
 
 ----
@@ -258,14 +226,9 @@ Responsive city exploration platform.
 </p>
 
 ---
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&row=2&column=4&no-frame=true" />
-</p>
 
 
----
+
 <h3 align="center">
 ✨ Code • Learn • Build • Repeat ✨
 </h3>
