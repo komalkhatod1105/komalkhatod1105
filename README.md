@@ -22,20 +22,22 @@
 
 
 ---
-# 🚀 Featured Projects
-
 <table>
 <tr>
 
 <td width="50%">
 
-## 🔍 Fake Review Detection System
+### 🔍 Fake Review Detection System
 
-[![Code](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/komalkhatod1105/Fake_Review_Detection_Project)
+<a href="https://github.com/komalkhatod1105/Fake_Review_Detection_Project">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
 
 NLP-based Machine Learning system to classify fake and genuine reviews.
 
-### ✨ Features
+#### ✨ Features
 
 ✔ Text Preprocessing
 
@@ -49,7 +51,7 @@ NLP-based Machine Learning system to classify fake and genuine reviews.
 
 ✔ Cross Validation
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![NLP](https://img.shields.io/badge/NLP-Processing-green)
@@ -59,13 +61,17 @@ NLP-based Machine Learning system to classify fake and genuine reviews.
 
 <td width="50%">
 
-## 💊 MediSafe Tracker
+### 💊 MediSafe Tracker
 
-[![Code](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/komalkhatod1105/MediSafeTracker)
+<a href="https://github.com/komalkhatod1105/MediSafeTracker">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
 
 Medicine management application with smart reminders.
 
-### ✨ Features
+#### ✨ Features
 
 ✔ Expiry Monitoring
 
@@ -79,12 +85,10 @@ Medicine management application with smart reminders.
 
 ✔ SQLite Storage
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-
 ![PyQt](https://img.shields.io/badge/PyQt-GUI-green)
-
 ![SQLite](https://img.shields.io/badge/SQLite-Database-orange)
 
 </td>
@@ -95,13 +99,17 @@ Medicine management application with smart reminders.
 
 <td width="50%">
 
-## 🌍 One Stop Guide
+### 🌍 One Stop Guide
 
-[![Code](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/komalkhatod1105/One-Stop-Guide)
+<a href="https://github.com/komalkhatod1105/One-Stop-Guide">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
 
 Responsive city exploration platform.
 
-### ✨ Features
+#### ✨ Features
 
 ✔ Tourism Information
 
@@ -115,21 +123,19 @@ Responsive city exploration platform.
 
 ✔ Mobile Friendly UI
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-Frontend-orange)
-
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-yellow)
-
 ![PHP](https://img.shields.io/badge/PHP-Backend-purple)
-
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 
+</td>
 
 <td width="50%">
 
+</table>
 
 ---
 
