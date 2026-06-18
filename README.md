@@ -223,8 +223,12 @@ Success Installed ✔ peh readme linux per dikha esa kuch
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
 </p>
 
-## 📊 3D Contribution Graph
+## 🏙️ My GitHub Skyline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night" />
+  <img src="images/github-skyline.png" width="100%">
+</p>
+
+<p align="center">
+Building my coding city one commit at a time 🚀
 </p>
