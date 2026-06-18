@@ -3,25 +3,48 @@
 <h1 align="center">👋 Hello, I'm Komal Khatod</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • 🤖 AI/ML Enthusiast • 💻 Problem Solver
+🚀 Full Stack Developer • 🤖 AI/ML Enthusiast • 💻 Problem Solver • 🌸 Tech Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Artificial+Intelligence+Explorer;Open+Source+Contributor;Data+Structures+%26+Algorithms;Building+Real+World+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;DSA+Problem+Solver;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%92%AB" />
+</p>
+
+---
+
+## 🌈 Profile Stats (Colorful Badges)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=ff4d6d&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/komalkhatod1105?affiliations=OWNER&color=orange&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Passion-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-00c896?style=for-the-badge"/>
+</p>
+
+---
+
+## 💻 Girl Coder Vibes ✨
+
+<p align="center">
+  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/komalkhatod1105?affiliations=OWNER&style=for-the-badge"/>
+🌸 “She writes code with dreams in her heart & logic in her mind.” 🌸
 </p>
 
-<br>
+---
+
+## ⚡ Extra Aesthetic Touch
 
 <p align="center">
-  <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
 </p>
 
+---
 ---
 
 <table>
