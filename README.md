@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Girl Coder Vibes ✨
+## 💻 Coder Vibes ✨
 
 <p align="center">
   <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -33,19 +33,9 @@
 <p align="center">
 🌸 “She writes code with dreams in her heart & logic in her mind.” 🌸
 </p>
+--
 
----
-
-## ⚡ Extra Aesthetic Touch
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
-</p>
-
----
----
+## 💻 Project Overview
 
 <table>
 <tr>
