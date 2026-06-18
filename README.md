@@ -178,30 +178,22 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/komalkhatod1105"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/komal-khatod-9b419a265/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:komalkhatod1234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/komalkhatod1105" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/komal-khatod-9b419a265/" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:komalkhatod1234@gmail.com" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://leetcode.com" style="margin:0 10px;">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/komalk8" style="margin:0 10px;">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48"/>
+  </a>
 </p>
-
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/></a>
-  <a href="https://www.geeksforgeeks.org/user/komalk8"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48"/></a>
-</p>
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 ## 🔥 GitHub Streak
@@ -225,6 +217,11 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
 <p align="center">
   <img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=react-dark" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&margin-w=10&no-frame=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkhatod1105&theme=radical"/>
 
 ---
 
