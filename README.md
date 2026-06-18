@@ -25,7 +25,7 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔍 Fake Review Detection System
 
@@ -39,16 +39,11 @@ NLP-based Machine Learning system to classify fake and genuine reviews.
 
 #### ✨ Features
 
-✔ Text Preprocessing
-
-✔ Tokenization & Stemming
-
-✔ TF-IDF Vectorization
-
-✔ Logistic Regression
-
-✔ Support Vector Machine (SVM)
-
+✔ Text Preprocessing  
+✔ Tokenization & Stemming  
+✔ TF-IDF Vectorization  
+✔ Logistic Regression  
+✔ Support Vector Machine (SVM)  
 ✔ Cross Validation
 
 #### 🛠 Tech Stack
@@ -59,7 +54,7 @@ NLP-based Machine Learning system to classify fake and genuine reviews.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💊 MediSafe Tracker
 
@@ -73,16 +68,11 @@ Medicine management application with smart reminders.
 
 #### ✨ Features
 
-✔ Expiry Monitoring
-
-✔ Refill Alerts
-
-✔ Reminder Scheduling
-
-✔ Interactive Dashboard
-
-✔ Notification System
-
+✔ Expiry Monitoring  
+✔ Refill Alerts  
+✔ Reminder Scheduling  
+✔ Interactive Dashboard  
+✔ Notification System  
 ✔ SQLite Storage
 
 #### 🛠 Tech Stack
@@ -97,7 +87,7 @@ Medicine management application with smart reminders.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 One Stop Guide
 
@@ -111,16 +101,11 @@ Responsive city exploration platform.
 
 #### ✨ Features
 
-✔ Tourism Information
-
-✔ Food Recommendations
-
-✔ Local Employment
-
-✔ Healthcare Services
-
-✔ Authentication System
-
+✔ Tourism Information  
+✔ Food Recommendations  
+✔ Local Employment  
+✔ Healthcare Services  
+✔ Authentication System  
 ✔ Mobile Friendly UI
 
 #### 🛠 Tech Stack
@@ -133,43 +118,38 @@ Responsive city exploration platform.
 
 </td>
 
-<td width="50%">
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🩸 Generative Blood AI
+### 🩸 Generative Blood AI
 
-[![Code](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/komalkhatod1105/YOUR_REPOSITORY)
+<a href="https://github.com/komalkhatod1105">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
 
 AI-powered blood donation and management platform built using MERN Stack and Machine Learning.
 
-### ✨ Features
+#### ✨ Features
 
-✔ Smart Blood Donor Matching
-
-✔ AI-Based Blood Availability Prediction
-
-✔ Blood Request Management
-
-✔ Secure User Authentication
-
-✔ Hospital & Blood Bank Integration
-
+✔ Smart Blood Donor Matching  
+✔ AI-Based Blood Availability Prediction  
+✔ Blood Request Management  
+✔ Secure User Authentication  
+✔ Hospital & Blood Bank Integration  
 ✔ Real-Time Dashboard
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-
 ![Python](https://img.shields.io/badge/Python-AI-blue?style=flat-square&logo=python)
 
 </td>
 
+</tr>
 </table>
 
 
