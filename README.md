@@ -127,9 +127,8 @@ Responsive city exploration platform.
 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 
-</td>
 
-<td width="50%">
+
 
 
 ---
