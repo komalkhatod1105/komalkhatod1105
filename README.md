@@ -131,33 +131,6 @@ Responsive city exploration platform.
 
 <td width="50%">
 
-## 🚧 Coming Soon
-
-### 🤖 AI Agent Projects
-
-- Retrieval Augmented Generation (RAG)
-
-- AI Agents
-
-- Generative AI
-
-- Advanced ML Systems
-
-- Open Source Contributions
-
-### 📌 Focus
-
-LLM Engineering
-
-Prompt Engineering
-
-AI Automation
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
