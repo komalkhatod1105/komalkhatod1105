@@ -134,8 +134,45 @@ Responsive city exploration platform.
 </td>
 
 <td width="50%">
+<td width="50%">
+
+## 🩸 Generative Blood AI
+
+[![Code](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/komalkhatod1105/YOUR_REPOSITORY)
+
+AI-powered blood donation and management platform built using MERN Stack and Machine Learning.
+
+### ✨ Features
+
+✔ Smart Blood Donor Matching
+
+✔ AI-Based Blood Availability Prediction
+
+✔ Blood Request Management
+
+✔ Secure User Authentication
+
+✔ Hospital & Blood Bank Integration
+
+✔ Real-Time Dashboard
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+![Python](https://img.shields.io/badge/Python-AI-blue?style=flat-square&logo=python)
+
+</td>
 
 </table>
+
+
 
 ---
 
@@ -153,13 +190,22 @@ Responsive city exploration platform.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/komalkhatod1105"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.linkedin.com/in/veshnavi-singh-430670322"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:komalkhatod1234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" /></a>
-<a href="https://www.geeksforgeeks.org/user/komalk8"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" /></a>
+  <a href="https://github.com/komalkhatod1105">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/komal-khatod-9b419a265/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:komalkhatod1234@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://leetcode.com">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/komalk8">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48"/>
+  </a>
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
