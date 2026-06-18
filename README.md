@@ -176,24 +176,8 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/komalkhatod1105">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/komal-khatod-9b419a265/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:komalkhatod1234@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://leetcode.com">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/komalk8">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48"/>
-  </a>
-</p>
----
+<p align="center"><a href="https://github.com/komalkhatod1105"><img src="https://skillicons.dev/icons?i=github" /></a><a href="https://www.linkedin.com/in/komal-khatod-9b419a265/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="mailto:komalkhatod1234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/></a><a href="https://www.geeksforgeeks.org/user/komalk8"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48"/></a></p>
+
 
 ## 📊 GitHub Statistics
 
