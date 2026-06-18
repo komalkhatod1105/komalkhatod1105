@@ -1,5 +1,4 @@
 <h1 align="center">✨ Hi, I am Komal Khatod ✨</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;MERN+Stack+Engineer;Problem+Solver;Building+Smart+Systems" />
 </p>
