@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=ff4d6d&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/komalkhatod1105?label=Followers&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/komalkhatod1105?affiliations=OWNER&color=orange&style=for-the-badge"/>
 </p>
