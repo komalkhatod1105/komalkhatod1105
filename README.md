@@ -167,8 +167,6 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
 
 # ⚡ Tech Stack
 
-## 💻 Programming Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
 </p>
