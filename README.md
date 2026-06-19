@@ -36,7 +36,6 @@
 <td width="50%" valign="top">
 
 ### 🔍 Fake Review Detection System
-
 <a href="https://github.com/komalkhatod1105/Fake_Review_Detection_Project">
 <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
 </a>
@@ -65,7 +64,6 @@ NLP-based Machine Learning system to classify fake and genuine reviews.
 <td width="50%" valign="top">
 
 ### 💊 MediSafe Tracker
-
 <a href="https://github.com/komalkhatod1105/MediSafeTracker">
 <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
 </a>
@@ -98,7 +96,6 @@ Medicine management application with smart reminders.
 <td width="50%" valign="top">
 
 ### 🌍 One Stop Guide
-
 <a href="https://github.com/komalkhatod1105/One-Stop-Guide">
 <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
 </a>
@@ -129,7 +126,6 @@ Responsive city exploration platform.
 <td width="50%" valign="top">
 
 ### 🩸 Generative Blood AI
-
 <a href="https://github.com/komalkhatod1105">
 <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
 </a>
