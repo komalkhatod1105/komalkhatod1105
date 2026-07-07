@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">👋 Hello, I'm Komal Khatod</h1>
+<h1 align="center">👋 Hello, I am Komal Khatod</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer • 🤖 AI/ML Enthusiast • 💻 Problem Solver • 🌸 Tech Explorer
