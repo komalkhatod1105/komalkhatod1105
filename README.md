@@ -189,13 +189,6 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
 </p>
 
 ---
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
