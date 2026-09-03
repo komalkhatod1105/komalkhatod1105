@@ -190,13 +190,6 @@ AI-powered blood donation and management platform built using MERN Stack and Mac
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
